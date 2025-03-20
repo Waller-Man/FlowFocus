@@ -10,7 +10,8 @@
 const std::vector<std::string> whitelist = {
     "cherry studio.exe",
     "explorer.exe", //Windows资源管理器 Windows Explorer
-    //"focus.exe",
+    "taskmgr.exe",  //任务管理器 task manager
+    "lockapp.exe",  //锁屏 Lock screen
     "msedge.exe",   //edge浏览器  Microsoft Edge Browser
     "devenv.exe"    //VS
 };

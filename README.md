@@ -3,6 +3,7 @@
 - 现代数字化学习守护者 | Digital Guardian for Focused Learning
 - 无害化的关闭前台应用程序 | Harmless closure of front-end applications
 - 只关闭前台的窗口，并不会终止后台的程序或服务 | Only closing the front-end window will not terminate the back-end application or services
+- Microsoft Edge浏览器与**深度专注**插件一起使用效果更佳 | The Microsoft Edge browser works better when used together with the DeepFocus plugin  https://microsoftedge.microsoft.com/addons/detail/%E6%B7%B1%E5%BA%A6%E4%B8%93%E6%B3%A8-deepfocus/pbfmgkbhlmejidfccdmfnnipgkkkpckc
 ---
 
 ## 📖 使用场景 / Use Cases
@@ -24,7 +25,8 @@ git clone https://github.com/Waller-Man/FlowFocus
 const std::vector<std::string> whitelist = {
     "cherry studio.exe",
     "explorer.exe", //Windows资源管理器 Windows Explorer
-    //"focus.exe",
+    //"taskmgr.exe",  //任务管理器 task manager
+    "lockapp.exe",  //锁屏 Lock screen
     "msedge.exe",   //edge浏览器  Microsoft Edge Browser
     "devenv.exe"    //VS
 };
