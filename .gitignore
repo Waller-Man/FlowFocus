@@ -1,0 +1,45 @@
+# Visual Studio 生成目录
+[Bb]in/
+[Oo]bj/
+
+# VS 用户配置和临时文件
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE本地缓存
+.ionide/
+
+# NuGet 包管理
+.nuget/
+packages/
+*.nupkg
+
+# 编译日志和结果
+*.log
+*.pdb
+*.ilk
+*.cache
+*.dll
+*.exe
+*.lib
+*.exp
+*.app
+
+# 资源文件（如图片、音视频、二进制文件等，按需调整）
+*.png
+*.jpg
+*.mp3
+*.wav
+*.asset
+*.unitypackage
+*.zip
+
+# 临时文件
+*.tmp
+
+# 系统文件
+Thumbs.db
+.DS_Store
