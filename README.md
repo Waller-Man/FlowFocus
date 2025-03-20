@@ -46,6 +46,10 @@ const std::vector<std::string> whitelist = {
 📂 Navigate to the `x64\Release` folder  
 🖱️ Right-click `FocusGuard.exe` → **Run as administrator**
 
+##   Run screenshot / Run screenshot
+![捕获](https://github.com/user-attachments/assets/270b52a3-ea6e-43da-b057-ddbccb8bfe1d)
+
+
 ##   🛡️ 安全退出 / Safe Exit
 Method 1️⃣: Press Ctrl+C in the console window  
 方法一：在控制窗口按 Ctrl+C  
