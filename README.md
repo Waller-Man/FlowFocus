@@ -46,7 +46,7 @@ const std::vector<std::string> whitelist = {
 📂 Navigate to the `x64\Release` folder  
 🖱️ Right-click `FocusGuard.exe` → **Run as administrator**
 
-##   Run screenshot / Run screenshot
+##   运行截图 / Run screenshot
 ![捕获](https://github.com/user-attachments/assets/270b52a3-ea6e-43da-b057-ddbccb8bfe1d)
 
 
