@@ -1,7 +1,8 @@
 
 # FocusGuard / 专注小卫士
 现代数字化学习守护者 | Digital Guardian for Focused Learning
-
+无害化的关闭前台应用程序 | Harmless closure of front-end applications
+只关闭前台的窗口，并不会终止后台的程序或服务 | Only closing the front-end window will not terminate the back-end application or services
 ---
 
 ## 📖 使用场景 / Use Cases
